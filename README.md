@@ -2,8 +2,10 @@
 
 A dataset containing fake/no fake news from different categories. The dataset contains articles from six newspapers (online) from Austria and Germany are analysed and is available on [kaggle](https://www.kaggle.com/astoeckl/fake-news-dataset-german).
 
-* EDA
-* Predictive Modelling
+* EDA: Some statistics from the dataset, play with wordclouds, etc.
+* Predictive Modelling: Consider 2 cases
+    * Fake vs. no Fake prediction
+    * Category prediction
 
 The work has been inspired by: https://medium.com/@andreasstckl/detecting-satire-and-fake-news-with-machine-learning-435695749f79
   
