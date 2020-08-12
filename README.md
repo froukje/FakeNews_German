@@ -10,4 +10,3 @@ A dataset containing fake/no fake news from different categories. The dataset co
 The work has been inspired by: https://medium.com/@andreasstckl/detecting-satire-and-fake-news-with-machine-learning-435695749f79
   
   
-Work in progress ...
